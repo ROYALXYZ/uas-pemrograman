@@ -2,7 +2,7 @@
 
 Demonstrasi 4 Pilar Object Oriented Programming (OOP) dalam C#
 
-## 📋 Deskripsi
+##  Deskripsi
 
 Program console C# yang mengimplementasikan 4 pilar OOP:
 1. **Encapsulation** - Private fields dengan public properties dan validation
@@ -10,7 +10,7 @@ Program console C# yang mengimplementasikan 4 pilar OOP:
 3. **Polymorphism** - Virtual method override, interface implementation, runtime polymorphism
 4. **Abstraction** - Abstract class dan abstract method
 
-## 🗂️ Struktur Project
+##  Struktur Project
 
 ```
 ConsoleApp1/
@@ -24,7 +24,7 @@ ConsoleApp1/
 └── LAPORAN_UAS.md     # Laporan lengkap
 ```
 
-## 🚀 Cara Menjalankan
+##  Cara Menjalankan
 
 1. Build project:
    ```bash
@@ -35,10 +35,6 @@ ConsoleApp1/
    ```bash
    .\ConsoleApp1\bin\Debug\ConsoleApp1.exe
    ```
-
-## 📝 Laporan
-
-Lihat file [LAPORAN_UAS.md](LAPORAN_UAS.md) untuk penjelasan detail implementasi setiap pilar OOP.
 
 ## 🎓 Informasi Akademik
 
